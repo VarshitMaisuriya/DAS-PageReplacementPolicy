@@ -13,8 +13,9 @@ http://www.cs.toronto.edu/~reid/csc150/02f/a2/traces.html
 2. LU Decomposition: http://www.cs.toronto.edu/~reid/csc150/02f/a2/lu
 3. Matrix Multiply: http://www.cs.toronto.edu/~reid/csc150/02f/a2/mmout http://www.cs.toronto.edu/~reid/csc150/02f/a2/mmout1
 
-<\br>
+
 https://cseweb.ucsd.edu/classes/fa07/cse240a/project1.html
+
 Trace files download link: https://cseweb.ucsd.edu/classes/fa07/cse240a/proj1-traces.tar.gz
 
 
