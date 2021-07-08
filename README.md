@@ -8,7 +8,7 @@ We have implemented 4 cache replacement policies:
 
 We tested our code on the following trace files obtained from the refernces below:
 
-[](http://www.cs.toronto.edu/~reid/csc150/02f/a2/traces.html)
+[Trace files 1](http://www.cs.toronto.edu/~reid/csc150/02f/a2/traces.html)
 1. Sorting: [](http://www.cs.toronto.edu/~reid/csc150/02f/a2/sort1)
 2. LU Decomposition: [](http://www.cs.toronto.edu/~reid/csc150/02f/a2/lu)
 3. Matrix Multiply: [](http://www.cs.toronto.edu/~reid/csc150/02f/a2/mmout), [](http://www.cs.toronto.edu/~reid/csc150/02f/a2/mmout1)
