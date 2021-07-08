@@ -10,7 +10,7 @@ We have implemented 4 cache replacement policies:
 
 **TRACE FILES**
 
-We tested our code on the following trace files obtained from the refernces below:
+We tested our code on the following trace files obtained from the references below:
 
 http://www.cs.toronto.edu/~reid/csc150/02f/a2/traces.html
 1. Sorting: http://www.cs.toronto.edu/~reid/csc150/02f/a2/sort1
