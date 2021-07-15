@@ -29,3 +29,7 @@ We have uploaded 2 example trace file stimulations:
 [Example_gcc.ipynb](https://github.com/VarshitMaisuriya/DAS-PageReplacementPolicy/blob/main/Example_gcc.ipynb)  and [Example_lu.ipynb](https://github.com/VarshitMaisuriya/DAS-PageReplacementPolicy/blob/main/Example_lu.ipynb)
 
 Changing the file names we get the corresponding .csv files through which we can plot the data.
+
+**OPTIMAL PARTITIONING**
+
+We varied the partition size for LRU and LFU portion and obtained the results comparing which ratio works better for following traces.
