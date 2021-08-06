@@ -40,3 +40,6 @@ We have uploaded the results by comparing the hit ratios for different partition
 
 We implemented our version of DAS wich works in adaptive nature by changing the size of the LRU and LFU portion depending upon the hit and miss.
 We have uploaded the results comparing adaptive DAS and simple DAS for all the trace files mentioned above. 
+
+**Latex Source Code**
+https://www.overleaf.com/read/fwqbfqncprzb
